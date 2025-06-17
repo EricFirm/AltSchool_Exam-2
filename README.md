@@ -43,4 +43,4 @@ Below is a picture showing the screenshot of the rendered page:
 ![Rendered_page](assets/images/Screenshot_rendered_page.png)
 
 ### 8. IP address
-The IP address to access the web server is: [http://52.214.12.210/](http://52.214.12.210/)
+The IP address to access the web server is: 52.214.12.210; [http://52.214.12.210/](http://52.214.12.210/)
